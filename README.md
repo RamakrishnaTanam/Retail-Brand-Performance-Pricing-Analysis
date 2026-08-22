@@ -6,7 +6,6 @@ An end-to-end retail analytics project analyzing men's T-shirt brands to underst
 
 ## 📊 Dashboard
 
-![Power BI Dashboard](Images/dashboard.png)
 
 ## 🎯 Business Objectives
 
