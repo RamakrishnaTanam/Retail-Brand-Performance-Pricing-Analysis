@@ -1,4 +1,4 @@
-# Retail Brand Performance & Pricing Analytics
+# Retail Brand Performance & Pricing Analytics(Data Source : Microsoft Azure SQL Database)
 
 **Azure SQL Database | SQL | Power BI | DAX | Power BI Service**
 
