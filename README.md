@@ -46,22 +46,6 @@ The primary table contains:
 
 `Brand` · `Title` · `Cost Price` · `Marked Price` · `Sale Price` · `Discount Percentage` · `Profit %`
 
-## 📁 Repository Structure
-
-```text
-retail-brand-performance-powerbi/
-│
-├── README.md
-├── Dashboard/
-│   └── Retail_Brand_Performance.pbix
-├── SQL/
-│   ├── data_cleaning.sql
-│   └── analysis_queries.sql
-├── DAX/
-│   └── measures.md
-└── Images/
-    └── dashboard.png
-```
 
 ## 💡 Business Value
 
